@@ -1,0 +1,136 @@
+{
+  "item": {
+    "id": "979856982709",
+    "restype": "watchface",
+    "name": "配重",
+    "description": "圆与半圆，椭圆与方框，让简单的形状在腕间找到平衡。两套主题，各有三种指针、三种盘面和三组配色。\n\n默认是一枚居中的纯时钟。三个信息位可分别显示、隐藏或替换，支持数字时间、星期日期、电量、步数、心率和天气温度。\n\n长按表盘进入编辑：「样式」换主题与配色，「时间」换指针，「刻度」换盘面，「数据」调整信息位。RW5／RW5 eSIM／RW6 在「数据项」页点内框换指针、上沿外露框换盘面。切换主题时沿用当前部件选择。",
+    "preview": [
+      "media/preview-01-themes.jpg",
+      "media/preview-02-options.jpg",
+      "media/preview-03-devices.jpg",
+      "media/preview-04-guide.jpg"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.jpg",
+    "author": [
+      {
+        "name": "A_WU",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/Balance-pro-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/Balance-pro-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        }
+      ]
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/Balance-band9-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/Balance-band10-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/Balance-band10-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/Balance-band10-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/Balance-band10-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        }
+      ]
+    },
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/Balance-rw-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        }
+      ]
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/Balance-rw-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/Balance-rw-1.0.0.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
