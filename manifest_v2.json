@@ -22,112 +22,152 @@
   "links": [],
   "downloads": {
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/Balance-pro-1.0.0.face",
-      "versionCode": 65536,
+      "version": "1.0.1",
+      "file_name": "downloads/Balance-pro-1.0.1.face",
+      "versionCode": 65537,
       "updatelogs": [
         {
           "version": "1.0.0",
           "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        },
+        {
+          "version": "1.0.1",
+          "content": "修复部分设备长按后无法正常编辑或切换样式的问题。"
         }
       ]
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/Balance-pro-1.0.0.face",
-      "versionCode": 65536,
+      "version": "1.0.1",
+      "file_name": "downloads/Balance-pro-1.0.1.face",
+      "versionCode": 65537,
       "updatelogs": [
         {
           "version": "1.0.0",
           "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        },
+        {
+          "version": "1.0.1",
+          "content": "修复部分设备长按后无法正常编辑或切换样式的问题。"
         }
       ]
     },
     "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/Balance-band9-1.0.0.face",
-      "versionCode": 65536,
+      "version": "1.0.1",
+      "file_name": "downloads/Balance-band9-1.0.1.face",
+      "versionCode": 65537,
       "updatelogs": [
         {
           "version": "1.0.0",
           "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        },
+        {
+          "version": "1.0.1",
+          "content": "修复部分设备长按后无法正常编辑或切换样式的问题。"
         }
       ]
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/Balance-band10-1.0.0.face",
-      "versionCode": 65536,
+      "version": "1.0.1",
+      "file_name": "downloads/Balance-band10-1.0.1.face",
+      "versionCode": 65537,
       "updatelogs": [
         {
           "version": "1.0.0",
           "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        },
+        {
+          "version": "1.0.1",
+          "content": "修复部分设备长按后无法正常编辑或切换样式的问题。"
         }
       ]
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/Balance-band10-1.0.0.face",
-      "versionCode": 65536,
+      "version": "1.0.1",
+      "file_name": "downloads/Balance-band10-1.0.1.face",
+      "versionCode": 65537,
       "updatelogs": [
         {
           "version": "1.0.0",
           "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        },
+        {
+          "version": "1.0.1",
+          "content": "修复部分设备长按后无法正常编辑或切换样式的问题。"
         }
       ]
     },
     "xmb11": {
-      "version": "1.0.0",
-      "file_name": "downloads/Balance-band10-1.0.0.face",
-      "versionCode": 65536,
+      "version": "1.0.1",
+      "file_name": "downloads/Balance-band10-1.0.1.face",
+      "versionCode": 65537,
       "updatelogs": [
         {
           "version": "1.0.0",
           "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        },
+        {
+          "version": "1.0.1",
+          "content": "修复部分设备长按后无法正常编辑或切换样式的问题。"
         }
       ]
     },
     "xmb11nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/Balance-band10-1.0.0.face",
-      "versionCode": 65536,
+      "version": "1.0.1",
+      "file_name": "downloads/Balance-band10-1.0.1.face",
+      "versionCode": 65537,
       "updatelogs": [
         {
           "version": "1.0.0",
           "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        },
+        {
+          "version": "1.0.1",
+          "content": "修复部分设备长按后无法正常编辑或切换样式的问题。"
         }
       ]
     },
     "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/Balance-rw-1.0.0.face",
-      "versionCode": 65536,
+      "version": "1.0.1",
+      "file_name": "downloads/Balance-rw-1.0.1.face",
+      "versionCode": 65537,
       "updatelogs": [
         {
           "version": "1.0.0",
           "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        },
+        {
+          "version": "1.0.1",
+          "content": "修复部分设备长按后无法正常编辑或切换样式的问题。"
         }
       ]
     },
     "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/Balance-rw-1.0.0.face",
-      "versionCode": 65536,
+      "version": "1.0.1",
+      "file_name": "downloads/Balance-rw-1.0.1.face",
+      "versionCode": 65537,
       "updatelogs": [
         {
           "version": "1.0.0",
           "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        },
+        {
+          "version": "1.0.1",
+          "content": "修复部分设备长按后无法正常编辑或切换样式的问题。"
         }
       ]
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/Balance-rw-1.0.0.face",
-      "versionCode": 65536,
+      "version": "1.0.1",
+      "file_name": "downloads/Balance-rw-1.0.1.face",
+      "versionCode": 65537,
       "updatelogs": [
         {
           "version": "1.0.0",
           "content": "首次发布。配重与偏心悬挂两套主题，支持独立搭配指针、盘面、配色与信息部件。"
+        },
+        {
+          "version": "1.0.1",
+          "content": "修复部分设备长按后无法正常编辑或切换样式的问题。"
         }
       ]
     }
